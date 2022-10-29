@@ -11,9 +11,9 @@ Projeto calculadora.
 
 ## :eyes: Site de demonstração
 
-Você pode acessar o site [aqui.](https://d7pimenta.github.io/localizador-via-cep/)
+Você pode acessar o site [aqui.](https://d7pimenta.github.io/calculadora-app/)
 
-<p align="center">Projeto realizado durante o curso de React do Sujeito Programador</p>
+<p align="center">Projeto realizado durante o curso de React do Web Dev Simplified</p>
 
 
 
