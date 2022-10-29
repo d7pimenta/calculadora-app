@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/d7pimenta/localizador-via-cep/blob/main/public/readme/buscador.PNG" width="50%">
+  <img src="https://github.com/d7pimenta/calculadora-app/blob/main/public/readme/calculadora.PNG" width="50%">
 </p>
 
 ## :computer: Projeto
