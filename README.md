@@ -13,7 +13,7 @@ Projeto calculadora.
 
 Você pode acessar o site [aqui.](https://d7pimenta.github.io/calculadora-app/)
 
-<p align="center">Projeto realizado durante o curso de React do Web Dev Simplified</p>
+<p align="center">INSTRUÇÕES</p>
 
 
 
@@ -21,15 +21,12 @@ Você pode acessar o site [aqui.](https://d7pimenta.github.io/calculadora-app/)
 
 
 
-# Getting Started with Create React App
-Ola
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
 In the project directory, you can run:
 
-### `npm start`
+### `npm install`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
